@@ -9,7 +9,7 @@
     "zynq": "./src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "bhavya-kaushik",
   "license": "ISC",
   "description": "",
   "dependencies": {
